@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JennyAdroja
 - 👀 I’m interested in Web Devlopment 
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN related projects
 - 📫 How to reach me email me at jennycollege2@gmail.com
 
 <!---
